@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.cont{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(img/m01.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+
+.icon00:hover{filter: drop-shadow(2px 2px 2px rgb(95, 28, 28));}
+
+.wrap{
+    position: absolute;
+    width: 611px;
+    height: 69px;
+    right: 120px;
+    bottom: 165px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrap2{
+    position: absolute;
+    width: 417px;
+    height: 174px;
+    top: 190px;
+    right: 217px;
+}
+.wrap2:hover{filter: drop-shadow(2px 2px 5px rgb(75, 8, 8));}
+
+
+/*--네비게이션 시작--*/
+nav{
+    width: 100%;
+    height: 61px;
+    padding-top: 37px;
+}
+ul{
+    width: 1500px;
+    height: 61px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+il{}
+.bt00{padding-right: 600px;}
+.bt01{}
+.bt02{}
+.bt03{}
+
+.bt00:hover{filter: drop-shadow(2px 2px 5px rgb(137, 137, 137));}
+.bt01:hover{filter: drop-shadow(2px 2px 5px rgb(159, 159, 159));}
+.bt02:hover{filter: drop-shadow(2px 2px 5px rgb(159, 159, 159));}
+.bt03:hover{filter: drop-shadow(2px 2px 5px rgb(159, 159, 159));}
+
+
+/*--서브01 css 시작--*/
+.s01_b00{
+    width: 100%;
+}
+.s01_b01{
+    background-image: url(img/s01_01.png);
+    height: 818px;
+}
+.s01_txt{
+    width: 340px;
+    height: 197px;
+    margin: 0 auto;
+    margin-top: 255px;
+}
+.s01_b02{
+    height: 1213px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s01_b03{
+    height: 1297px;
+    background-image: url(img/s01_b1.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s01_b04{
+    height: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s01_b05{
+    height: 888px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s01_b06{
+    height: 991px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s01_box1{
+    height: 300px;
+    width: 1920px;
+    background-color: #FAF9F6;
+}
+.s01_b07{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*--서브02 css 시작--*/
+.s02_b00{
+    width: 100%;
+}
+.s02_b01{
+    background-image: url(img/s02_01.png);
+    height: 818px;
+}
+.s02_txt{
+    width: 317px;
+    height: 156px;
+    margin: 0 auto;
+    margin-top: 233px;
+}
+.s02_b02{
+    height: 1614px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s02_b03{
+    height: 1614px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s02_b04{
+    height: 1614px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+.s02_b05{
+    height: 2450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF9F6;
+}
+
+.s02_box1{
+    height: 200px;
+    background-color: #FAF9F6;
+    
+}
+
+.s02_b06{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*--서브03 css 시작--*/
+.s03_b00{
+    width: 100%;
+}
+.s03_b01{
+    background-image: url(img/s03_01.png);
+    height: 818px;
+}
+.s03_txt{
+    width: 198px;
+    height: 132px;
+    margin: 0 auto;
+    margin-top: 243px;
+}
+.s03_b02{
+    height: 1442px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: 
+}
+
+
+.bt{
+    height: 116px;
+    width: 116px;
+    position: absolute;
+    margin-left: 902px;
+    margin-top: 556px;
+   
+}
+
+.bt:hover{filter: invert(1);}
+
+.s03_b03_1{
+    background-color: #FDFDFB;
+    height: 2100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s03_box1{
+    height: 200px;
+    background-color: #FDFDFB;
+}
+.s03_b04{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
